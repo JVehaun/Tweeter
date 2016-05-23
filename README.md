@@ -8,9 +8,9 @@ python tweeter.py "search term here"
 #Examples
 
 The following has overwhelmingly positive related tweets:
-python tweeter.py "@GTMGH3"
-python tweeter.py "@trustfuel"
+	python tweeter.py "@GTMGH3"
+	python tweeter.py "@trustfuel"
 
 Whereas the following has mixed tweets:
-python tweeter.py "@HillaryClinton"
-python tweeter.py "@realDonaldTrump"
+	python tweeter.py "@HillaryClinton"
+	python tweeter.py "@realDonaldTrump"
